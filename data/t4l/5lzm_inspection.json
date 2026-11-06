@@ -1,0 +1,14 @@
+{
+ "n_ATOM": 1292,
+ "n_HETATM": 133,
+ "n_altloc": 0,
+ "HETATM_par_residu": {
+  " CL": 2,
+  "BME": 12,
+  "HOH": 119
+ },
+ "residus_atomes_manquants": [],
+ "d1_nm": 3.559287495763002,
+ "d2_nm": 0.8736173679320962,
+ "p": 0.24099485901744194
+}

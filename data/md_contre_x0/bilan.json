@@ -1,0 +1,1022 @@
+{
+ "systemes": 28,
+ "repliques": 84,
+ "images": 16800,
+ "rejets": [],
+ "ns_par_image": 0.5,
+ "oxt_retires": 168,
+ "oxt_dmin_min_A": 2.76,
+ "oxt_a_moins_de_5A": 10,
+ "oxt_detail": [
+  {
+   "unite": "1AY7__MD__rep1",
+   "chaine": 0,
+   "residu_ordinal": 96,
+   "dmin_A": 29.18
+  },
+  {
+   "unite": "1AY7__MD__rep1",
+   "chaine": 1,
+   "residu_ordinal": 89,
+   "dmin_A": 21.98
+  },
+  {
+   "unite": "1AY7__MD__rep2",
+   "chaine": 0,
+   "residu_ordinal": 96,
+   "dmin_A": 29.62
+  },
+  {
+   "unite": "1AY7__MD__rep2",
+   "chaine": 1,
+   "residu_ordinal": 89,
+   "dmin_A": 23.54
+  },
+  {
+   "unite": "1AY7__MD__rep3",
+   "chaine": 0,
+   "residu_ordinal": 96,
+   "dmin_A": 29.73
+  },
+  {
+   "unite": "1AY7__MD__rep3",
+   "chaine": 1,
+   "residu_ordinal": 89,
+   "dmin_A": 23.17
+  },
+  {
+   "unite": "1B6C__MD__rep1",
+   "chaine": 0,
+   "residu_ordinal": 107,
+   "dmin_A": 13.58
+  },
+  {
+   "unite": "1B6C__MD__rep1",
+   "chaine": 1,
+   "residu_ordinal": 326,
+   "dmin_A": 40.39
+  },
+  {
+   "unite": "1B6C__MD__rep2",
+   "chaine": 0,
+   "residu_ordinal": 107,
+   "dmin_A": 12.13
+  },
+  {
+   "unite": "1B6C__MD__rep2",
+   "chaine": 1,
+   "residu_ordinal": 326,
+   "dmin_A": 42.45
+  },
+  {
+   "unite": "1B6C__MD__rep3",
+   "chaine": 0,
+   "residu_ordinal": 107,
+   "dmin_A": 16.38
+  },
+  {
+   "unite": "1B6C__MD__rep3",
+   "chaine": 1,
+   "residu_ordinal": 326,
+   "dmin_A": 40.33
+  },
+  {
+   "unite": "1BKD__MD__rep1",
+   "chaine": 0,
+   "residu_ordinal": 166,
+   "dmin_A": 22.82
+  },
+  {
+   "unite": "1BKD__MD__rep1",
+   "chaine": 1,
+   "residu_ordinal": 477,
+   "dmin_A": 32.95
+  },
+  {
+   "unite": "1BKD__MD__rep2",
+   "chaine": 0,
+   "residu_ordinal": 166,
+   "dmin_A": 20.01
+  },
+  {
+   "unite": "1BKD__MD__rep2",
+   "chaine": 1,
+   "residu_ordinal": 477,
+   "dmin_A": 33.76
+  },
+  {
+   "unite": "1BKD__MD__rep3",
+   "chaine": 0,
+   "residu_ordinal": 166,
+   "dmin_A": 18.99
+  },
+  {
+   "unite": "1BKD__MD__rep3",
+   "chaine": 1,
+   "residu_ordinal": 477,
+   "dmin_A": 32.16
+  },
+  {
+   "unite": "1EFN__MD__rep1",
+   "chaine": 0,
+   "residu_ordinal": 57,
+   "dmin_A": 17.6
+  },
+  {
+   "unite": "1EFN__MD__rep1",
+   "chaine": 1,
+   "residu_ordinal": 133,
+   "dmin_A": 25.4
+  },
+  {
+   "unite": "1EFN__MD__rep2",
+   "chaine": 0,
+   "residu_ordinal": 57,
+   "dmin_A": 17.7
+  },
+  {
+   "unite": "1EFN__MD__rep2",
+   "chaine": 1,
+   "residu_ordinal": 133,
+   "dmin_A": 29.0
+  },
+  {
+   "unite": "1EFN__MD__rep3",
+   "chaine": 0,
+   "residu_ordinal": 57,
+   "dmin_A": 19.61
+  },
+  {
+   "unite": "1EFN__MD__rep3",
+   "chaine": 1,
+   "residu_ordinal": 133,
+   "dmin_A": 26.97
+  },
+  {
+   "unite": "1FFW__MD__rep1",
+   "chaine": 0,
+   "residu_ordinal": 128,
+   "dmin_A": 14.22
+  },
+  {
+   "unite": "1FFW__MD__rep1",
+   "chaine": 1,
+   "residu_ordinal": 68,
+   "dmin_A": 24.03
+  },
+  {
+   "unite": "1FFW__MD__rep2",
+   "chaine": 0,
+   "residu_ordinal": 128,
+   "dmin_A": 12.61
+  },
+  {
+   "unite": "1FFW__MD__rep2",
+   "chaine": 1,
+   "residu_ordinal": 68,
+   "dmin_A": 24.22
+  },
+  {
+   "unite": "1FFW__MD__rep3",
+   "chaine": 0,
+   "residu_ordinal": 128,
+   "dmin_A": 13.94
+  },
+  {
+   "unite": "1FFW__MD__rep3",
+   "chaine": 1,
+   "residu_ordinal": 68,
+   "dmin_A": 24.41
+  },
+  {
+   "unite": "1GCQ__MD__rep1",
+   "chaine": 0,
+   "residu_ordinal": 57,
+   "dmin_A": 6.37
+  },
+  {
+   "unite": "1GCQ__MD__rep1",
+   "chaine": 1,
+   "residu_ordinal": 69,
+   "dmin_A": 4.95
+  },
+  {
+   "unite": "1GCQ__MD__rep2",
+   "chaine": 0,
+   "residu_ordinal": 57,
+   "dmin_A": 4.69
+  },
+  {
+   "unite": "1GCQ__MD__rep2",
+   "chaine": 1,
+   "residu_ordinal": 69,
+   "dmin_A": 5.79
+  },
+  {
+   "unite": "1GCQ__MD__rep3",
+   "chaine": 0,
+   "residu_ordinal": 57,
+   "dmin_A": 8.22
+  },
+  {
+   "unite": "1GCQ__MD__rep3",
+   "chaine": 1,
+   "residu_ordinal": 69,
+   "dmin_A": 4.32
+  },
+  {
+   "unite": "1J2J__MD__rep1",
+   "chaine": 0,
+   "residu_ordinal": 165,
+   "dmin_A": 23.74
+  },
+  {
+   "unite": "1J2J__MD__rep1",
+   "chaine": 1,
+   "residu_ordinal": 41,
+   "dmin_A": 13.94
+  },
+  {
+   "unite": "1J2J__MD__rep2",
+   "chaine": 0,
+   "residu_ordinal": 165,
+   "dmin_A": 25.43
+  },
+  {
+   "unite": "1J2J__MD__rep2",
+   "chaine": 1,
+   "residu_ordinal": 41,
+   "dmin_A": 11.47
+  },
+  {
+   "unite": "1J2J__MD__rep3",
+   "chaine": 0,
+   "residu_ordinal": 165,
+   "dmin_A": 26.48
+  },
+  {
+   "unite": "1J2J__MD__rep3",
+   "chaine": 1,
+   "residu_ordinal": 41,
+   "dmin_A": 11.88
+  },
+  {
+   "unite": "1M10__MD__rep1",
+   "chaine": 0,
+   "residu_ordinal": 199,
+   "dmin_A": 12.61
+  },
+  {
+   "unite": "1M10__MD__rep1",
+   "chaine": 1,
+   "residu_ordinal": 267,
+   "dmin_A": 28.3
+  },
+  {
+   "unite": "1M10__MD__rep2",
+   "chaine": 0,
+   "residu_ordinal": 199,
+   "dmin_A": 12.09
+  },
+  {
+   "unite": "1M10__MD__rep2",
+   "chaine": 1,
+   "residu_ordinal": 267,
+   "dmin_A": 24.56
+  },
+  {
+   "unite": "1M10__MD__rep3",
+   "chaine": 0,
+   "residu_ordinal": 199,
+   "dmin_A": 7.34
+  },
+  {
+   "unite": "1M10__MD__rep3",
+   "chaine": 1,
+   "residu_ordinal": 267,
+   "dmin_A": 29.82
+  },
+  {
+   "unite": "1QA9__MD__rep1",
+   "chaine": 0,
+   "residu_ordinal": 102,
+   "dmin_A": 35.81
+  },
+  {
+   "unite": "1QA9__MD__rep1",
+   "chaine": 1,
+   "residu_ordinal": 95,
+   "dmin_A": 29.54
+  },
+  {
+   "unite": "1QA9__MD__rep2",
+   "chaine": 0,
+   "residu_ordinal": 102,
+   "dmin_A": 34.77
+  },
+  {
+   "unite": "1QA9__MD__rep2",
+   "chaine": 1,
+   "residu_ordinal": 95,
+   "dmin_A": 27.65
+  },
+  {
+   "unite": "1QA9__MD__rep3",
+   "chaine": 0,
+   "residu_ordinal": 102,
+   "dmin_A": 35.2
+  },
+  {
+   "unite": "1QA9__MD__rep3",
+   "chaine": 1,
+   "residu_ordinal": 95,
+   "dmin_A": 30.79
+  },
+  {
+   "unite": "1S1Q__MD__rep1",
+   "chaine": 0,
+   "residu_ordinal": 141,
+   "dmin_A": 11.1
+  },
+  {
+   "unite": "1S1Q__MD__rep1",
+   "chaine": 1,
+   "residu_ordinal": 72,
+   "dmin_A": 7.91
+  },
+  {
+   "unite": "1S1Q__MD__rep2",
+   "chaine": 0,
+   "residu_ordinal": 141,
+   "dmin_A": 11.44
+  },
+  {
+   "unite": "1S1Q__MD__rep2",
+   "chaine": 1,
+   "residu_ordinal": 72,
+   "dmin_A": 8.59
+  },
+  {
+   "unite": "1S1Q__MD__rep3",
+   "chaine": 0,
+   "residu_ordinal": 141,
+   "dmin_A": 9.49
+  },
+  {
+   "unite": "1S1Q__MD__rep3",
+   "chaine": 1,
+   "residu_ordinal": 72,
+   "dmin_A": 8.51
+  },
+  {
+   "unite": "1SYX__MD__rep1",
+   "chaine": 0,
+   "residu_ordinal": 135,
+   "dmin_A": 9.54
+  },
+  {
+   "unite": "1SYX__MD__rep1",
+   "chaine": 1,
+   "residu_ordinal": 62,
+   "dmin_A": 2.76
+  },
+  {
+   "unite": "1SYX__MD__rep2",
+   "chaine": 0,
+   "residu_ordinal": 135,
+   "dmin_A": 11.96
+  },
+  {
+   "unite": "1SYX__MD__rep2",
+   "chaine": 1,
+   "residu_ordinal": 62,
+   "dmin_A": 4.75
+  },
+  {
+   "unite": "1SYX__MD__rep3",
+   "chaine": 0,
+   "residu_ordinal": 135,
+   "dmin_A": 10.55
+  },
+  {
+   "unite": "1SYX__MD__rep3",
+   "chaine": 1,
+   "residu_ordinal": 62,
+   "dmin_A": 4.46
+  },
+  {
+   "unite": "2AJF__MD__rep1",
+   "chaine": 0,
+   "residu_ordinal": 597,
+   "dmin_A": 65.63
+  },
+  {
+   "unite": "2AJF__MD__rep1",
+   "chaine": 1,
+   "residu_ordinal": 180,
+   "dmin_A": 34.66
+  },
+  {
+   "unite": "2AJF__MD__rep2",
+   "chaine": 0,
+   "residu_ordinal": 597,
+   "dmin_A": 67.13
+  },
+  {
+   "unite": "2AJF__MD__rep2",
+   "chaine": 1,
+   "residu_ordinal": 180,
+   "dmin_A": 35.01
+  },
+  {
+   "unite": "2AJF__MD__rep3",
+   "chaine": 0,
+   "residu_ordinal": 597,
+   "dmin_A": 67.11
+  },
+  {
+   "unite": "2AJF__MD__rep3",
+   "chaine": 1,
+   "residu_ordinal": 180,
+   "dmin_A": 34.45
+  },
+  {
+   "unite": "2C0L__MD__rep1",
+   "chaine": 0,
+   "residu_ordinal": 305,
+   "dmin_A": 23.59
+  },
+  {
+   "unite": "2C0L__MD__rep1",
+   "chaine": 1,
+   "residu_ordinal": 122,
+   "dmin_A": 2.95
+  },
+  {
+   "unite": "2C0L__MD__rep2",
+   "chaine": 0,
+   "residu_ordinal": 305,
+   "dmin_A": 24.95
+  },
+  {
+   "unite": "2C0L__MD__rep2",
+   "chaine": 1,
+   "residu_ordinal": 122,
+   "dmin_A": 3.2
+  },
+  {
+   "unite": "2C0L__MD__rep3",
+   "chaine": 0,
+   "residu_ordinal": 305,
+   "dmin_A": 23.28
+  },
+  {
+   "unite": "2C0L__MD__rep3",
+   "chaine": 1,
+   "residu_ordinal": 122,
+   "dmin_A": 2.97
+  },
+  {
+   "unite": "2OT3__MD__rep1",
+   "chaine": 0,
+   "residu_ordinal": 253,
+   "dmin_A": 18.11
+  },
+  {
+   "unite": "2OT3__MD__rep1",
+   "chaine": 1,
+   "residu_ordinal": 166,
+   "dmin_A": 16.4
+  },
+  {
+   "unite": "2OT3__MD__rep2",
+   "chaine": 0,
+   "residu_ordinal": 253,
+   "dmin_A": 16.44
+  },
+  {
+   "unite": "2OT3__MD__rep2",
+   "chaine": 1,
+   "residu_ordinal": 166,
+   "dmin_A": 17.31
+  },
+  {
+   "unite": "2OT3__MD__rep3",
+   "chaine": 0,
+   "residu_ordinal": 253,
+   "dmin_A": 20.93
+  },
+  {
+   "unite": "2OT3__MD__rep3",
+   "chaine": 1,
+   "residu_ordinal": 166,
+   "dmin_A": 14.02
+  },
+  {
+   "unite": "2X9A__MD__rep1",
+   "chaine": 0,
+   "residu_ordinal": 61,
+   "dmin_A": 20.74
+  },
+  {
+   "unite": "2X9A__MD__rep1",
+   "chaine": 1,
+   "residu_ordinal": 90,
+   "dmin_A": 4.6
+  },
+  {
+   "unite": "2X9A__MD__rep2",
+   "chaine": 0,
+   "residu_ordinal": 61,
+   "dmin_A": 20.38
+  },
+  {
+   "unite": "2X9A__MD__rep2",
+   "chaine": 1,
+   "residu_ordinal": 90,
+   "dmin_A": 7.29
+  },
+  {
+   "unite": "2X9A__MD__rep3",
+   "chaine": 0,
+   "residu_ordinal": 61,
+   "dmin_A": 22.33
+  },
+  {
+   "unite": "2X9A__MD__rep3",
+   "chaine": 1,
+   "residu_ordinal": 90,
+   "dmin_A": 7.03
+  },
+  {
+   "unite": "3K75__MD__rep1",
+   "chaine": 0,
+   "residu_ordinal": 152,
+   "dmin_A": 26.03
+  },
+  {
+   "unite": "3K75__MD__rep1",
+   "chaine": 1,
+   "residu_ordinal": 248,
+   "dmin_A": 21.42
+  },
+  {
+   "unite": "3K75__MD__rep2",
+   "chaine": 0,
+   "residu_ordinal": 152,
+   "dmin_A": 26.99
+  },
+  {
+   "unite": "3K75__MD__rep2",
+   "chaine": 1,
+   "residu_ordinal": 248,
+   "dmin_A": 18.56
+  },
+  {
+   "unite": "3K75__MD__rep3",
+   "chaine": 0,
+   "residu_ordinal": 152,
+   "dmin_A": 23.63
+  },
+  {
+   "unite": "3K75__MD__rep3",
+   "chaine": 1,
+   "residu_ordinal": 248,
+   "dmin_A": 20.33
+  },
+  {
+   "unite": "3PC8__MD__rep1",
+   "chaine": 0,
+   "residu_ordinal": 97,
+   "dmin_A": 34.15
+  },
+  {
+   "unite": "3PC8__MD__rep1",
+   "chaine": 1,
+   "residu_ordinal": 77,
+   "dmin_A": 18.61
+  },
+  {
+   "unite": "3PC8__MD__rep2",
+   "chaine": 0,
+   "residu_ordinal": 97,
+   "dmin_A": 31.86
+  },
+  {
+   "unite": "3PC8__MD__rep2",
+   "chaine": 1,
+   "residu_ordinal": 77,
+   "dmin_A": 17.86
+  },
+  {
+   "unite": "3PC8__MD__rep3",
+   "chaine": 0,
+   "residu_ordinal": 97,
+   "dmin_A": 34.57
+  },
+  {
+   "unite": "3PC8__MD__rep3",
+   "chaine": 1,
+   "residu_ordinal": 77,
+   "dmin_A": 17.61
+  },
+  {
+   "unite": "3RJQ__MD__rep1",
+   "chaine": 0,
+   "residu_ordinal": 315,
+   "dmin_A": 27.3
+  },
+  {
+   "unite": "3RJQ__MD__rep1",
+   "chaine": 1,
+   "residu_ordinal": 127,
+   "dmin_A": 36.48
+  },
+  {
+   "unite": "3RJQ__MD__rep2",
+   "chaine": 0,
+   "residu_ordinal": 315,
+   "dmin_A": 28.24
+  },
+  {
+   "unite": "3RJQ__MD__rep2",
+   "chaine": 1,
+   "residu_ordinal": 127,
+   "dmin_A": 38.56
+  },
+  {
+   "unite": "3RJQ__MD__rep3",
+   "chaine": 0,
+   "residu_ordinal": 315,
+   "dmin_A": 27.97
+  },
+  {
+   "unite": "3RJQ__MD__rep3",
+   "chaine": 1,
+   "residu_ordinal": 127,
+   "dmin_A": 37.66
+  },
+  {
+   "unite": "4M3K__MD__rep1",
+   "chaine": 0,
+   "residu_ordinal": 260,
+   "dmin_A": 44.69
+  },
+  {
+   "unite": "4M3K__MD__rep1",
+   "chaine": 1,
+   "residu_ordinal": 119,
+   "dmin_A": 29.39
+  },
+  {
+   "unite": "4M3K__MD__rep2",
+   "chaine": 0,
+   "residu_ordinal": 260,
+   "dmin_A": 44.3
+  },
+  {
+   "unite": "4M3K__MD__rep2",
+   "chaine": 1,
+   "residu_ordinal": 119,
+   "dmin_A": 28.74
+  },
+  {
+   "unite": "4M3K__MD__rep3",
+   "chaine": 0,
+   "residu_ordinal": 260,
+   "dmin_A": 44.9
+  },
+  {
+   "unite": "4M3K__MD__rep3",
+   "chaine": 1,
+   "residu_ordinal": 119,
+   "dmin_A": 29.18
+  },
+  {
+   "unite": "4POU__MD__rep1",
+   "chaine": 0,
+   "residu_ordinal": 124,
+   "dmin_A": 14.88
+  },
+  {
+   "unite": "4POU__MD__rep1",
+   "chaine": 1,
+   "residu_ordinal": 120,
+   "dmin_A": 37.1
+  },
+  {
+   "unite": "4POU__MD__rep2",
+   "chaine": 0,
+   "residu_ordinal": 124,
+   "dmin_A": 14.29
+  },
+  {
+   "unite": "4POU__MD__rep2",
+   "chaine": 1,
+   "residu_ordinal": 120,
+   "dmin_A": 36.27
+  },
+  {
+   "unite": "4POU__MD__rep3",
+   "chaine": 0,
+   "residu_ordinal": 124,
+   "dmin_A": 15.42
+  },
+  {
+   "unite": "4POU__MD__rep3",
+   "chaine": 1,
+   "residu_ordinal": 120,
+   "dmin_A": 35.32
+  },
+  {
+   "unite": "4Y7M__MD__rep1",
+   "chaine": 0,
+   "residu_ordinal": 129,
+   "dmin_A": 33.57
+  },
+  {
+   "unite": "4Y7M__MD__rep1",
+   "chaine": 1,
+   "residu_ordinal": 241,
+   "dmin_A": 44.08
+  },
+  {
+   "unite": "4Y7M__MD__rep2",
+   "chaine": 0,
+   "residu_ordinal": 129,
+   "dmin_A": 33.12
+  },
+  {
+   "unite": "4Y7M__MD__rep2",
+   "chaine": 1,
+   "residu_ordinal": 241,
+   "dmin_A": 43.06
+  },
+  {
+   "unite": "4Y7M__MD__rep3",
+   "chaine": 0,
+   "residu_ordinal": 129,
+   "dmin_A": 33.1
+  },
+  {
+   "unite": "4Y7M__MD__rep3",
+   "chaine": 1,
+   "residu_ordinal": 241,
+   "dmin_A": 45.75
+  },
+  {
+   "unite": "5E5M__MD__rep1",
+   "chaine": 0,
+   "residu_ordinal": 115,
+   "dmin_A": 34.41
+  },
+  {
+   "unite": "5E5M__MD__rep1",
+   "chaine": 1,
+   "residu_ordinal": 112,
+   "dmin_A": 28.44
+  },
+  {
+   "unite": "5E5M__MD__rep2",
+   "chaine": 0,
+   "residu_ordinal": 115,
+   "dmin_A": 36.02
+  },
+  {
+   "unite": "5E5M__MD__rep2",
+   "chaine": 1,
+   "residu_ordinal": 112,
+   "dmin_A": 27.47
+  },
+  {
+   "unite": "5E5M__MD__rep3",
+   "chaine": 0,
+   "residu_ordinal": 115,
+   "dmin_A": 35.42
+  },
+  {
+   "unite": "5E5M__MD__rep3",
+   "chaine": 1,
+   "residu_ordinal": 112,
+   "dmin_A": 29.27
+  },
+  {
+   "unite": "5HGG__MD__rep1",
+   "chaine": 0,
+   "residu_ordinal": 246,
+   "dmin_A": 28.38
+  },
+  {
+   "unite": "5HGG__MD__rep1",
+   "chaine": 1,
+   "residu_ordinal": 127,
+   "dmin_A": 36.33
+  },
+  {
+   "unite": "5HGG__MD__rep2",
+   "chaine": 0,
+   "residu_ordinal": 246,
+   "dmin_A": 28.08
+  },
+  {
+   "unite": "5HGG__MD__rep2",
+   "chaine": 1,
+   "residu_ordinal": 127,
+   "dmin_A": 38.05
+  },
+  {
+   "unite": "5HGG__MD__rep3",
+   "chaine": 0,
+   "residu_ordinal": 246,
+   "dmin_A": 28.33
+  },
+  {
+   "unite": "5HGG__MD__rep3",
+   "chaine": 1,
+   "residu_ordinal": 127,
+   "dmin_A": 39.16
+  },
+  {
+   "unite": "5JMO__MD__rep1",
+   "chaine": 0,
+   "residu_ordinal": 471,
+   "dmin_A": 42.22
+  },
+  {
+   "unite": "5JMO__MD__rep1",
+   "chaine": 1,
+   "residu_ordinal": 117,
+   "dmin_A": 32.09
+  },
+  {
+   "unite": "5JMO__MD__rep2",
+   "chaine": 0,
+   "residu_ordinal": 471,
+   "dmin_A": 45.14
+  },
+  {
+   "unite": "5JMO__MD__rep2",
+   "chaine": 1,
+   "residu_ordinal": 117,
+   "dmin_A": 32.01
+  },
+  {
+   "unite": "5JMO__MD__rep3",
+   "chaine": 0,
+   "residu_ordinal": 471,
+   "dmin_A": 39.35
+  },
+  {
+   "unite": "5JMO__MD__rep3",
+   "chaine": 1,
+   "residu_ordinal": 117,
+   "dmin_A": 33.52
+  },
+  {
+   "unite": "5SV3__MD__rep1",
+   "chaine": 0,
+   "residu_ordinal": 125,
+   "dmin_A": 27.32
+  },
+  {
+   "unite": "5SV3__MD__rep1",
+   "chaine": 1,
+   "residu_ordinal": 167,
+   "dmin_A": 32.17
+  },
+  {
+   "unite": "5SV3__MD__rep2",
+   "chaine": 0,
+   "residu_ordinal": 125,
+   "dmin_A": 27.86
+  },
+  {
+   "unite": "5SV3__MD__rep2",
+   "chaine": 1,
+   "residu_ordinal": 167,
+   "dmin_A": 29.64
+  },
+  {
+   "unite": "5SV3__MD__rep3",
+   "chaine": 0,
+   "residu_ordinal": 125,
+   "dmin_A": 27.67
+  },
+  {
+   "unite": "5SV3__MD__rep3",
+   "chaine": 1,
+   "residu_ordinal": 167,
+   "dmin_A": 31.57
+  },
+  {
+   "unite": "5VNW__MD__rep1",
+   "chaine": 0,
+   "residu_ordinal": 583,
+   "dmin_A": 20.91
+  },
+  {
+   "unite": "5VNW__MD__rep1",
+   "chaine": 1,
+   "residu_ordinal": 120,
+   "dmin_A": 30.47
+  },
+  {
+   "unite": "5VNW__MD__rep2",
+   "chaine": 0,
+   "residu_ordinal": 583,
+   "dmin_A": 21.52
+  },
+  {
+   "unite": "5VNW__MD__rep2",
+   "chaine": 1,
+   "residu_ordinal": 120,
+   "dmin_A": 31.5
+  },
+  {
+   "unite": "5VNW__MD__rep3",
+   "chaine": 0,
+   "residu_ordinal": 583,
+   "dmin_A": 24.27
+  },
+  {
+   "unite": "5VNW__MD__rep3",
+   "chaine": 1,
+   "residu_ordinal": 120,
+   "dmin_A": 35.5
+  },
+  {
+   "unite": "6CWG__MD__rep1",
+   "chaine": 0,
+   "residu_ordinal": 263,
+   "dmin_A": 46.88
+  },
+  {
+   "unite": "6CWG__MD__rep1",
+   "chaine": 1,
+   "residu_ordinal": 127,
+   "dmin_A": 41.06
+  },
+  {
+   "unite": "6CWG__MD__rep2",
+   "chaine": 0,
+   "residu_ordinal": 263,
+   "dmin_A": 48.85
+  },
+  {
+   "unite": "6CWG__MD__rep2",
+   "chaine": 1,
+   "residu_ordinal": 127,
+   "dmin_A": 41.55
+  },
+  {
+   "unite": "6CWG__MD__rep3",
+   "chaine": 0,
+   "residu_ordinal": 263,
+   "dmin_A": 44.81
+  },
+  {
+   "unite": "6CWG__MD__rep3",
+   "chaine": 1,
+   "residu_ordinal": 127,
+   "dmin_A": 41.3
+  },
+  {
+   "unite": "6DBG__MD__rep1",
+   "chaine": 0,
+   "residu_ordinal": 286,
+   "dmin_A": 41.87
+  },
+  {
+   "unite": "6DBG__MD__rep1",
+   "chaine": 1,
+   "residu_ordinal": 122,
+   "dmin_A": 37.08
+  },
+  {
+   "unite": "6DBG__MD__rep2",
+   "chaine": 0,
+   "residu_ordinal": 286,
+   "dmin_A": 40.62
+  },
+  {
+   "unite": "6DBG__MD__rep2",
+   "chaine": 1,
+   "residu_ordinal": 122,
+   "dmin_A": 35.73
+  },
+  {
+   "unite": "6DBG__MD__rep3",
+   "chaine": 0,
+   "residu_ordinal": 286,
+   "dmin_A": 40.66
+  },
+  {
+   "unite": "6DBG__MD__rep3",
+   "chaine": 1,
+   "residu_ordinal": 122,
+   "dmin_A": 38.54
+  }
+ ],
+ "n_rejets": 0,
+ "duree_s": 50.8
+}

@@ -1,0 +1,211 @@
+accession	pdb	n_replicas_dispos	mdNames	n_atoms	n_residues	n_chaines_seq	frames	framestep_ns	program	ff	db55_classe	db55_irmsd_A	db55_complexe	dans_staging12	published	license	xtc_octets_total	psf_octets	pdb_octets_par_rep
+A00O8	1A2K	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	7103	444	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	1.11	1A2K_C:AB	non	False	None	80910284	2485138	575378
+A00KU	1AHW	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	9745	636	3	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.69	1AHW_AB:C	non	False	None	111102472	3410471	789380
+A00PC	1AK4	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	4763	310	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.87	1AK4_A:D	non	False	None	54449172	1664939	385838
+A00PD	1AKJ	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	9545	602	3	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	1.14	1AKJ_AB:DE	non	False	None	108672404	3337031	773180
+A00PE	1ATN	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	9807	632	2	1000	0.1	NAMD 2.13	CHARMM36m	Difficult	3.28	1ATN_A:D	non	False	None	111738408	3421601	794402
+A00ME	1AVX	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	5918	395	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.47	1AVX_A:B	non	False	None	67443160	2068700	479393
+A00MF	1AY7	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	2877	185	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.54	1AY7_A:B	non	False	None	32883256	1005023	233072
+A00O9	1AZS	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	11801	747	3	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.72	1AZS_AB:C	non	False	None	134603104	4113567	955916
+A00PF	1B6C	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	6875	433	2	1000	0.1	NAMD 2.13	CHARMM36m	Medium Difficulty	1.96	1B6C_A:B	oui	False	None	78264604	2395784	556910
+A00OA	1BKD	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	10535	643	2	1000	0.1	NAMD 2.13	CHARMM36m	Difficult	2.86	1BKD_R:S	oui	False	None	120088820	3684136	853370
+A00MG	1BVN	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	8641	567	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.87	1BVN_P:T	non	False	None	98372216	3016929	699956
+A00MH	1CGI	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	4444	301	2	1000	0.1	NAMD 2.13	CHARMM36m	Medium Difficulty	2.02	1CGI_E:I	non	False	None	50726588	1551383	359999
+A00MI	1CLV	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	7404	502	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.86	1CLV_A:I	non	False	None	83122528	2585769	599759
+A00MJ	1D6R	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	4079	281	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	1.14	1D6R_A:I	non	False	None	46438052	1425430	330434
+A00PG	1DE4	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	26003	1641	3	1000	0.1	NAMD 2.13	CHARMM36m	Difficult	2.59	1DE4_AB:CF	non	False	None	296391500	9090707	2106278
+A00MK	1DFJ	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	8734	580	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	1.02	1DFJ_E:I	non	False	None	99311132	3046445	707489
+A00KV	1DQJ	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	8314	553	3	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.75	1DQJ_AB:C	non	False	None	94388500	2906461	673469
+A00OU	1E4K	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	9536	604	2	1000	0.1	NAMD 2.13	CHARMM36m	Difficult	2.6	1E4K_AB:C	non	False	None	108636484	3351329	772451
+A00NU	1E6E	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	8790	570	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.96	1E6E_A:B	non	False	None	100339368	3071397	712025
+A00OB	1E96	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	5845	363	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.71	1E96_A:B	non	False	None	66698624	2041468	473480
+A00OV	1EER	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	9211	592	2	1000	0.1	NAMD 2.13	CHARMM36m	Difficult	2.44	1EER_A:BC	non	False	None	105066388	3218690	746126
+A00PH	1EFN	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	3055	190	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.77	1EFN_B:A	non	False	None	34938100	1071517	247490
+A00ML	1F34	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	6795	463	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.93	1F34_A:B	non	False	None	77241472	2378560	550430
+A00N8	1F51	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	7869	482	3	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.74	1F51_AB:E	non	False	None	90008776	2743990	637424
+A00NV	1F6M	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	6459	428	2	1000	0.1	NAMD 2.13	CHARMM36m	Difficult	4.9	1F6M_A:C	non	False	None	73605728	2253215	523214
+A00OW	1FAK	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	8716	564	3	1000	0.1	NAMD 2.13	CHARMM36m	Difficult	6.18	1FAK_HL:T	non	False	None	99459412	3051600	706031
+A00PI	1FC2	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	3996	251	2	1000	0.1	NAMD 2.13	CHARMM36m	Medium Difficulty	1.69	1FC2_C:D	non	False	None	45742556	1404432	323711
+A00PJ	1FCC	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	7425	468	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.93	1FCC_AB:C	non	False	None	84783940	2607424	601460
+A00PK	1FFW	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	3022	196	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	1.43	1FFW_A:B	non	False	None	34576644	1050564	244817
+A00MM	1FLE	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	2159	142	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	1.02	1FLE_E:I	non	False	None	24789712	753990	174914
+A00NW	1FQ1	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	7688	479	2	1000	0.1	NAMD 2.13	CHARMM36m	Difficult	3.41	1FQ1_A:B	oui	False	None	87616132	2688057	622763
+A00OC	1FQJ	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	7333	450	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.91	1FQJ_A:B	non	False	None	83636652	2552465	594008
+A00PL	1GCQ	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	1968	126	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.92	1GCQ_B:C	non	False	None	22523396	691565	159443
+A00OX	1GHQ	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	6802	436	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.34	1GHQ_A:B	non	False	None	77570212	2379931	550997
+A00MN	1GL1	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	3975	273	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	1.21	1GL1_A:I	non	False	None	45261348	1388076	322010
+A00N9	1GLA	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	10347	664	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.98	1GLA_G:F	non	False	None	117877520	3605259	838142
+A00OD	1GP2	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	11462	737	3	1000	0.1	NAMD 2.13	CHARMM36m	Medium Difficulty	1.65	1GP2_A:BG	non	False	None	130544784	3987866	928457
+A00OE	1GRN	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	6205	388	2	1000	0.1	NAMD 2.13	CHARMM36m	Medium Difficulty	1.22	1GRN_A:B    *	non	False	None	70785916	2177403	502640
+A00PM	1H1V	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	10825	702	2	1000	0.1	NAMD 2.13	CHARMM36m	Difficult	6.62	1H1V_A:G	non	False	None	123162496	3778920	876860
+A00PN	1H9D	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	4131	259	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	1.32	1H9D_A:B	non	False	None	47193964	1441852	334646
+A00OF	1HE1	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	4793	311	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.93	1HE1_C:A	non	False	None	54787072	1672365	388268
+A00OG	1HE8	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	17805	1107	2	1000	0.1	NAMD 2.13	CHARMM36m	Medium Difficulty	0.92	1HE8_B:A	non	False	None	202819452	6219826	1442240
+A00OH	1I2M	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	8630	564	2	1000	0.1	NAMD 2.13	CHARMM36m	Medium Difficulty	2.12	1I2M_A:B	non	False	None	97875172	3011051	699065
+A00OI	1I4D	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	9240	577	3	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	1.41	1I4D_D:AB	non	False	None	105572208	3221720	748475
+A00PO	1IB1	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	10071	633	2	1000	0.1	NAMD 2.13	CHARMM36m	Medium Difficulty	2.09	1IB1_AB:E	non	False	None	114886452	3509097	815786
+A00OJ	1IBR	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	9924	627	2	1000	0.1	NAMD 2.13	CHARMM36m	Difficult	2.54	1IBR_A:B	non	False	None	113242792	3469873	803879
+A00NA	1IJK	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	7356	457	3	1000	0.1	NAMD 2.13	CHARMM36m	Medium Difficulty	0.68	1IJK_A:BC	non	False	None	83957476	2571004	595871
+A00OY	1IRA	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	7248	456	2	1000	0.1	NAMD 2.13	CHARMM36m	Difficult	8.38	1IRA_Y:X	non	False	None	82931792	2539124	587123
+A00OK	1J2J	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	3338	206	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.63	1J2J_A:B	non	False	None	38090768	1160669	270413
+A00MO	1JIW	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	8352	575	2	1000	0.1	NAMD 2.13	CHARMM36m	Medium Difficulty	2.07	1JIW_P:I	non	False	None	95194032	2914127	676547
+A00NX	1JK9	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	5898	396	2	1000	0.1	NAMD 2.13	CHARMM36m	Difficult	2.51	1JK9_B:A	non	False	None	67253072	2063244	477773
+A00NB	1JMO	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	11825	733	3	1000	0.1	NAMD 2.13	CHARMM36m	Difficult	3.21	1JMO_A:HL	non	False	None	134409728	4124621	957860
+A00MP	1JTD	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	7840	535	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.44	1JTD_B:A	non	False	None	89260272	2733516	635075
+A00MQ	1JTG	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	6473	427	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.49	1JTG_B:A	non	False	None	73742020	2255045	524348
+A00NC	1JWH	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	12026	740	3	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	1.27	1JWH_CD:A	non	False	None	137329248	4205980	974141
+A00ND	1JZD	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	8436	551	3	1000	0.1	NAMD 2.13	CHARMM36m	Difficult	2.71	1JZD_AB:C	non	False	None	96293856	2949624	683351
+A00OL	1K5D	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	11179	696	3	1000	0.1	NAMD 2.13	CHARMM36m	Medium Difficulty	1.19	1K5D_AB:C	non	False	None	127584472	3905191	905534
+A00OZ	1K74	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	8577	530	4	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.8	1K74_AB:DE	non	False	None	98065300	2996221	694772
+A00NY	1KKL	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	9515	614	4	1000	0.1	NAMD 2.13	CHARMM36m	Medium Difficulty	2.2	1KKL_ABC:H	non	False	None	108516708	3315316	770750
+A00PP	1KLU	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	9754	608	3	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.43	1KLU_AB:D	non	False	None	110955496	3411510	790109
+A00PQ	1KXP	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	12691	818	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	1.12	1KXP_A:D	non	False	None	145106712	4438529	1028006
+A00OM	1LFD	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	4036	254	2	1000	0.1	NAMD 2.13	CHARMM36m	Medium Difficulty	1.79	1LFD_B:A	non	False	None	46038532	1405120	326951
+A00NE	1M10	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	7468	466	2	1000	0.1	NAMD 2.13	CHARMM36m	Medium Difficulty	2.1	1M10_A:B	oui	False	None	84930808	2616170	604943
+A00PR	1M27	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	2791	176	3	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	1.22	1M27_AB:C	non	False	None	31932572	973705	226106
+A00MR	1MAH	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	9147	594	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.61	1MAH_A:F	non	False	None	104056336	3202957	740942
+A00P0	1ML0	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	6666	435	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	1.02	1ML0_AB:D	non	False	None	76084592	2333909	539981
+A00KW	1MLC	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	8398	561	3	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.6	1MLC_AB:E	non	False	None	95576592	2936525	680273
+A00PS	1MQ8	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	5705	361	2	1000	0.1	NAMD 2.13	CHARMM36m	Medium Difficulty	1.76	1MQ8_A:B	non	False	None	65184660	1997422	462140
+A00PT	1N2C	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	39946	2548	3	1000	0.1	NAMD 2.13	CHARMM36m	Medium Difficulty	2.13	1N2C_ABCD:EF	non	False	None	454188876	13931214	3235661
+A00PU	1OFU	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	8214	545	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	1.1	1OFU_XY:A	non	False	None	93954292	2859718	665369
+A00MS	1OPH	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	9208	598	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	1.21	1OPH_A:B	non	False	None	104909644	3219704	745883
+A00MT	1OYV	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	5306	378	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.7	1OYV_A:I	non	False	None	60468420	1851486	429821
+A00MU	1PPE	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	3674	252	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.44	1PPE_E:I	non	False	None	41839888	1282139	297629
+A00P1	1PVH	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	5843	370	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.34	1PVH_A:B	non	False	None	66897804	2047953	473318
+A00PV	1QA9	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	3228	197	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.73	1QA9_A:B	non	False	None	36825916	1126404	261503
+A00NF	1R6Q	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	3862	242	2	1000	0.1	NAMD 2.13	CHARMM36m	Medium Difficulty	1.67	1R6Q_A:C	non	False	None	44073248	1346439	312857
+A00PW	1RKE	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	7050	444	2	1000	0.1	NAMD 2.13	CHARMM36m	Difficult	4.25	1RKE_A:B	non	False	None	80541768	2454107	571085
+A00PX	1RLB	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	10182	660	3	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.66	1RLB_ABCD:E	non	False	None	115871888	3558886	824777
+A00ON	1RS8	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	5603	347	2	1000	0.1	NAMD 2.13	CHARMM36m	ABSENT_TABLE_DB5.5			non	False	None	63948476	1951571	453878
+A00PY	1S1Q	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	3471	213	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.98	1S1Q_A:B	non	False	None	39667008	1215581	281186
+A00P2	1SBB	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	7603	477	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.37	1SBB_A:B	non	False	None	86860220	2659758	615878
+A00PZ	1SYX	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	3183	197	2	1000	0.1	NAMD 2.13	CHARMM36m	Medium Difficulty	1.64	1SYX_A:B	non	False	None	36361028	1110321	257858
+A00P3	1T6B	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	14001	890	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.62	1T6B_X:Y	non	False	None	159564804	4892344	1134116
+A00MV	1TMQ	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	8704	587	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.86	1TMQ_A:B	non	False	None	99193532	3039030	705059
+A00MW	1UDI	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	4927	310	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.9	1UDI_E:I	non	False	None	56314240	1725365	399122
+A00NG	1US7	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	6638	408	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	1.06	1US7_A:B	non	False	None	76005628	2312438	537713
+A00Q0	1VDD	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	15332	1003	4	1000	0.1	NAMD 2.13	CHARMM36m	ABSENT_TABLE_DB5.5			non	False	None	175023532	5363092	1241927
+A00NH	1WDW	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	15879	1017	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	1.29	1WDW_BD:A	non	False	None	180105696	5539286	1286234
+A00KX	1WEJ	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	8220	541	3	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.31	1WEJ_HL:F	non	False	None	93288708	2878572	665855
+A00OO	1WQ1	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	7795	486	2	1000	0.1	NAMD 2.13	CHARMM36m	Medium Difficulty	1.16	1WQ1_R:G    *	non	False	None	88706520	2718190	631430
+A00Q1	1XD3	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	4837	304	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	1.24	1XD3_A:B	non	False	None	55332084	1691201	391832
+A00Q2	1XQS	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	6783	429	2	1000	0.1	NAMD 2.13	CHARMM36m	Medium Difficulty	1.77	1XQS_A:C	non	False	None	77724076	2361110	549458
+A00P4	1XU1	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	7151	450	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	1.3	1XU1_ABD:T	non	False	None	81304188	2495984	579266
+A00MX	1YVB	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	5510	352	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.51	1YVB_A:I	non	False	None	62894356	1922822	446345
+A00OP	1Z0K	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	3646	230	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.53	1Z0K_A:B	non	False	None	41583668	1268501	295361
+A00NZ	1Z5Y	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	4013	254	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	1.23	1Z5Y_D:E	non	False	None	45901072	1404954	325088
+A00P5	1ZHH	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	8959	565	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	1.31	1ZHH_A:B	non	False	None	102134372	3129733	725714
+A00Q3	1ZHI	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	5458	330	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.68	1ZHI_A:B	non	False	None	62376672	1907304	442133
+A00O0	1ZM4	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	16046	1030	2	1000	0.1	NAMD 2.13	CHARMM36m	Medium Difficulty	2.11	1ZM4_A:B	oui	False	None	182760860	5604931	1299761
+A00O1	2A1A	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	7344	443	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	1.35	2A1A_B:A	non	False	None	83995580	2559117	594899
+A00O2	2A9K	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	5983	377	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.85	2A9K_A:B	non	False	None	68153440	2083272	484658
+A00MY	2ABZ	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	5592	361	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.9	2ABZ_B:E	non	False	None	63843888	1955798	452987
+A00P6	2AJF	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	12338	777	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.65	2AJF_A:E	oui	False	None	140584372	4318225	999413
+A00NI	2AYO	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	7376	461	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	1.39	2AYO_A:B	non	False	None	84214724	2574180	597491
+A00MZ	2B42	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	8005	548	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.72	2B42_B:A	non	False	None	90855640	2802411	648440
+A00Q4	2B4J	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	6092	387	3	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.99	2B4J_AB:C	non	False	None	69451280	2124292	493487
+A00Q5	2BTF	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	7903	513	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.75	2BTF_A:P	non	False	None	90262516	2753975	640178
+A00Q6	2C0L	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	6557	427	2	1000	0.1	NAMD 2.13	CHARMM36m	Difficult	2.62	2C0L_A:B	oui	False	None	74760780	2287416	531152
+A00Q7	2CFH	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	5002	313	2	1000	0.1	NAMD 2.13	CHARMM36m	Medium Difficulty	1.55	2CFH_A:C	non	False	None	57127704	1740410	405197
+A00KY	2DD8	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	9322	624	3	1000	0.1	NAMD 2.13	CHARMM36m	Medium Difficulty	2.19	2DD8_HL:S	non	False	None	106106576	3267304	755117
+A00KZ	2FD6	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	10502	703	3	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	1.07	2FD6_HL:U	non	False	None	119294060	3677170	850697
+A00L0	2FGJ	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	9487	623	4	1000	0.1	NAMD 2.13	CHARMM36m	ABSENT_TABLE_DB5.5			non	False	None	107944740	2259991	768482
+A00OQ	2FJU	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	15341	966	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	1.04	2FJU_B:A	non	False	None	174933084	5368814	1242656
+A00OR	2G77	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	9159	561	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	1.08	2G77_A:B	non	False	None	104449056	3202611	741914
+A00NJ	2GAF	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	12115	733	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.69	2GAF_D:A	non	False	None	137776180	4226300	981350
+A00OS	2GTP	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	7216	449	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.54	2GTP_A:D	non	False	None	82237092	2514270	584531
+A00P7	2HLE	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	5178	326	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	1.4	2HLE_A:B	non	False	None	59062152	1811810	419453
+A00Q8	2HQS	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	7820	520	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.97	2HQS_A:H	non	False	None	89091512	2736027	633455
+A00Q9	2HRK	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	4729	298	2	1000	0.1	NAMD 2.13	CHARMM36m	Medium Difficulty	2.03	2HRK_A:B	non	False	None	54021680	1651133	383084
+A00M2	2I25	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	3689	243	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	1.21	2I25_N:L	non	False	None	42033436	1284645	298844
+A00N0	2J0T	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	4388	285	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	1.23	2J0T_A:D	non	False	None	49967560	1534863	355463
+A00QA	2J7P	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	8984	574	2	1000	0.1	NAMD 2.13	CHARMM36m	Difficult	2.67	2J7P_A:D	non	False	None	102731152	3131431	727739
+A00O3	2MTA	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	9111	603	3	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.41	2MTA_HL:A	non	False	None	104099604	3191770	738026
+A00N1	2O3B	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	5770	376	2	1000	0.1	NAMD 2.13	CHARMM36m	Difficult	3.13	2O3B_A:B	non	False	None	65770040	2020370	467405
+A00NK	2OOR	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	14011	932	3	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	1.42	2OOR_AB:C	non	False	None	159924492	4882241	1134926
+A00NL	2OT3	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	6818	419	2	1000	0.1	NAMD 2.13	CHARMM36m	Difficult	2.79	2OT3_B:A	oui	False	None	77934536	2378047	552293
+A00N2	2OUL	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	5366	348	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.53	2OUL_A:B	non	False	None	61219912	1875636	434681
+A00O4	2OV8	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	5575	351	2	1000	0.1	NAMD 2.13	CHARMM36m	ABSENT_TABLE_DB5.5			non	False	None	63557712	1948379	451610
+A00QB	2OZA	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	11164	688	2	1000	0.1	NAMD 2.13	CHARMM36m	Medium Difficulty	1.89	2OZA_B:A	non	False	None	127001944	3900300	904319
+A00O5	2PCC	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	6321	402	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.39	2PCC_A:B	non	False	None	72058428	2212140	512036
+A00N3	2SIC	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	5345	382	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.36	2SIC_E:I	non	False	None	60894608	1868231	432980
+A00N4	2SNI	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	4901	339	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.35	2SNI_E:I	non	False	None	55984956	1713495	397016
+A00N5	2UUY	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	4012	275	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.43	2UUY_A:B	non	False	None	45755448	1399828	325007
+A00QC	2VDB	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	10021	634	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.47	2VDB_A:B	non	False	None	114487600	3508217	811736
+A00L1	2VIS	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	10528	698	3	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.8	2VIS_AB:C	non	False	None	119649504	3687667	852803
+A00L2	2VXT	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	8947	582	3	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	1.33	2VXT_HL:I	non	False	None	101821600	3127244	724742
+A00L3	2WE9	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	7989	526	3	1000	0.1	NAMD 2.13	CHARMM36m	ABSENT_TABLE_DB5.5			non	False	None	91045372	1896118	647144
+A00P8	2X9A	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	2244	151	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	1.33	2X9A_D:C	non	False	None	25659884	786442	181799
+A00NM	2YVJ	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	7633	508	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.6	2YVJ_A:B	non	False	None	87265800	2663915	618308
+A00NN	2Z0E	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	7443	469	2	1000	0.1	NAMD 2.13	CHARMM36m	Medium Difficulty	2.15	2Z0E_A:B	non	False	None	84999688	2601245	602918
+A00N6	3A4S	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	3491	217	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.72	3A4S_A:D	non	False	None	39863788	1224267	282806
+A00QD	3AAA	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	9976	634	3	1000	0.1	NAMD 2.13	CHARMM36m	Medium Difficulty	1.78	3AAA_AB:C	non	False	None	113707708	3485324	808091
+A00QE	3AAD	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	6983	429	2	1000	0.1	NAMD 2.13	CHARMM36m	Difficult	4.37	3AAD_A:B	non	False	None	79550076	1659595	565658
+A00QF	3AAD	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	6959	428	2	1000	0.1	NAMD 2.13	CHARMM36m	Medium Difficulty	2.0	3AAD_A:D	non	False	None	79708640	1653741	563714
+A00QG	3BIW	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	11328	733	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.39	3BIW_A:E	non	False	None	129411336	3969367	917603
+A00QH	3BP8	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	13366	866	3	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.45	3BP8_AB:C	non	False	None	152705928	4660295	1082681
+A00QI	3BX7	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	4533	293	2	1000	0.1	NAMD 2.13	CHARMM36m	Medium Difficulty	1.63	3BX7_A:C	non	False	None	51815232	1586322	367208
+A00OT	3CPH	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	9820	616	2	1000	0.1	NAMD 2.13	CHARMM36m	Medium Difficulty	2.12	3CPH_G:A	non	False	None	112039964	3428650	795455
+A00QJ	3D5S	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	5771	362	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.56	3D5S_A:C	non	False	None	65741420	2014343	467486
+A00QK	3DAW	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	8096	512	2	1000	0.1	NAMD 2.13	CHARMM36m	Medium Difficulty	1.49	3DAW_A:B	non	False	None	92326460	2825109	655811
+A00L4	3EOA	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	9444	613	3	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.39	3EOA_LH:I	non	False	None	107493072	3301311	764999
+A00QL	3F1P	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	3648	225	2	1000	0.1	NAMD 2.13	CHARMM36m	Difficult	2.52	3F1P_A:B	non	False	None	41620356	1272899	295523
+A00L5	3G6D	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	8038	539	3	1000	0.1	NAMD 2.13	CHARMM36m	Medium Difficulty	1.86	3G6D_LH:A	non	False	None	91666260	2815093	651113
+A00NO	3H11	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	8067	505	3	1000	0.1	NAMD 2.13	CHARMM36m	Difficult	3.79	3H11_BC:A	non	False	None	91636416	2817774	653462
+A00QM	3H2V	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	4032	252	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.8	3H2V_A:E	non	False	None	46176336	1400808	326627
+A00L6	3HI6	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	9208	599	3	1000	0.1	NAMD 2.13	CHARMM36m	Medium Difficulty	1.65	3HI6_XY:B	non	False	None	105222320	3217752	745883
+A00L7	3HMX	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	14343	925	4	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.73	3HMX_LH:AB	non	False	None	141728640	5015185	1161818
+A00NP	3K75	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	6349	400	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.64	3K75_D:B	oui	False	None	72242392	2217710	514304
+A00L8	3L5W	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	8200	540	3	1000	0.1	NAMD 2.13	CHARMM36m	Medium Difficulty	0.48	3L5W_LH:I	non	False	None	93421424	2868729	664235
+A00P9	3L89	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	10908	705	4	1000	0.1	NAMD 2.13	CHARMM36m	Difficult	2.51	3L89_ABC:M	non	False	None	124000792	3815463	883583
+A00NQ	3LVJ	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	13464	859	3	1000	0.1	NAMD 2.13	CHARMM36m	ABSENT_TABLE_DB5.5			non	False	None	153271420	4686683	1090619
+A00L9	3MJ9	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	9989	656	3	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	1.48	3MJ9_HL:A	non	False	None	113679248	3492127	809144
+A00LA	3MXW	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	8961	585	3	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.48	3MXW_LH:A	non	False	None	101927284	3134124	725876
+A00NR	3PC8	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	2862	174	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.5	3PC8_A:C	non	False	None	32734300	1001234	231857
+A00PA	3R9A	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	16978	1091	3	1000	0.1	NAMD 2.13	CHARMM36m	Medium Difficulty	1.91	3R9A_AC:B	non	False	None	193476768	5932787	1375253
+A00LB	3RJQ	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	6793	442	2	1000	0.1	NAMD 2.13	CHARMM36m	Medium Difficulty	0.79	3RJQ_B:A	non	False	None	77621324	2375452	550268
+A00LC	3RVW	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	10049	655	3	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.5	3RVW_CD:A	non	False	None	114278556	3513529	814004
+A00LD	3SE8	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	12015	783	3	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	1.22	3SE8_HL:G	non	False	None	136618364	4210257	973250
+A00N7	3SGQ	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	3202	229	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.39	3SGQ_E:I	non	False	None	36478996	1114639	259397
+A00QN	3SZK	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	6395	412	3	1000	0.1	NAMD 2.13	CHARMM36m	Medium Difficulty	2.1	3SZK_DE:F	non	False	None	73032560	2241238	518030
+A00LE	3V6Z	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	8957	591	3	1000	0.1	NAMD 2.13	CHARMM36m	Medium Difficulty	1.83	3V6Z_AB:F	non	False	None	101844472	3132474	725552
+A00LF	3WD5	2	replica 1/3, 100 ns|replica 2/3, 100 ns	8842	584	3	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.93	3WD5_HL:ABC	non	False	None	67092812	3093799	716237
+A00LG	4DN4	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	7455	493	3	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.81	4DN4_LH:M	non	False	None	84681784	2607966	603890
+A00LH	4DW2	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	10084	660	3	1000	0.1	NAMD 2.13	CHARMM36m	Difficult	2.27	4DW2_HL:U	non	False	None	114702676	3524706	816839
+A00LI	4ETQ	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	10270	664	3	1000	0.1	NAMD 2.13	CHARMM36m	Medium Difficulty	0.47	4ETQ_HL:C	non	False	None	116788156	3595936	831905
+A00LJ	4FP8	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	10820	718	3	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.34	4FP8_HL:A	non	False	None	123048236	3786171	876455
+A00LK	4FQI	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	14146	932	4	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	1.08	4FQI_HL:ABEFCD	non	False	None	160946724	4951949	1145861
+A00NS	4FZA	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	9900	606	2	1000	0.1	NAMD 2.13	CHARMM36m	Medium Difficulty	2.04	4FZA_A:B	non	False	None	112799604	3455890	801935
+A00LL	4G6J	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	8851	579	3	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.61	4G6J_HL:A	non	False	None	100744028	3097167	716966
+A00NT	4GAM	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	36364	2264	4	1000	0.1	NAMD 2.13	CHARMM36m	Difficult	5.79	4GAM_AFBGCH:D	non	False	None	412141580	12692123	2945519
+A00O6	4H03	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	12307	772	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.68	4H03_A:B	non	False	None	140048612	4301588	996902
+A00O7	4LW4	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	14244	941	2	1000	0.1	NAMD 2.13	CHARMM36m	Medium Difficulty	1.6	4LW4_AB:C	non	False	None	161896488	4975045	1153799
+A00M3	4M3K	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	5819	379	2	1000	0.1	NAMD 2.13	CHARMM36m	Medium Difficulty	1.77	4M3K_B:A	non	False	None	66378696	2028337	471374
+A00LM	4M5Z	2	replica 1/3, 100 ns|replica 3/3, 100 ns	9849	653	3	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.73	4M5Z_HL:A	non	False	None	74657560	3453758	797804
+A00PB	4M76	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	7565	475	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.43	4M76_A:B	non	False	None	86234812	2641691	612800
+A00M4	4POU	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	3626	244	2	1000	0.1	NAMD 2.13	CHARMM36m	Medium Difficulty	1.83	4POU_B:A	non	False	None	41270268	1265455	293741
+A00M5	4Y7M	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	5654	370	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.84	4Y7M_A:C	non	False	None	64408280	1972812	458009
+A00LN	5C7X	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	8118	540	3	1000	0.1	NAMD 2.13	CHARMM36m	Difficult	2.31	5C7X_HL:A	non	False	None	92388156	2843922	657593
+A00LO	5CBA	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	4564	300	3	1000	0.1	NAMD 2.13	CHARMM36m	Medium Difficulty	1.49	5CBA_AB:E	non	False	None	52027168	1592748	369719
+A00M6	5E5M	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	3404	227	2	1000	0.1	NAMD 2.13	CHARMM36m	Medium Difficulty	1.56	5E5M_B:A	non	False	None	38785268	1188390	275759
+A00LP	5GRJ	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	6801	442	3	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	1.14	5GRJ_HL:A	non	False	None	77668720	2373021	550916
+A00M7	5HGG	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	5695	373	2	1000	0.1	NAMD 2.13	CHARMM36m	Medium Difficulty	0.84	5HGG_T:A	non	False	None	64805432	1988908	461330
+A00LQ	5HYS	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	13294	866	4	1000	0.1	NAMD 2.13	CHARMM36m	Medium Difficulty	1.0	5HYS_CD:JK	non	False	None	151093132	4657433	1076849
+A00M8	5JMO	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	8738	588	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.29	5JMO_D:B	oui	False	None	99628752	3052340	707813
+A00LR	5O14	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	10203	676	3	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.63	5O14_HL:A	non	False	None	115898956	3566224	826478
+A00LS	5O1R	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	8210	555	3	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.9	5O1R_HL:A	non	False	None	93414816	2870226	665045
+A00M9	5SV3	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	4461	292	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.57	5SV3_C:D	non	False	None	50835876	1554558	361376
+A00MA	5VNW	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	11032	703	2	1000	0.1	NAMD 2.13	CHARMM36m	Medium Difficulty	1.49	5VNW_D:A	oui	False	None	125838696	3859367	893627
+A00LT	5WHK	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	11990	795	4	1000	0.1	NAMD 2.13	CHARMM36m	Medium Difficulty	1.88	5WHK_HL:AB	non	False	None	136214292	4200310	971225
+A00LU	5WK3	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	7560	498	3	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.57	5WK3_WV:D	non	False	None	85974172	2646493	612395
+A00LV	5WUX	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	13469	880	3	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.8	5WUX_HL:EFG	non	False	None	152848224	4714991	1091024
+A00LW	5X0T	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	7662	506	3	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	1.25	5X0T_AB:E	non	False	None	87143148	2679432	620657
+A00LX	5Y9J	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	8654	577	3	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.96	5Y9J_HL:ABC	non	False	None	98597372	3028907	701009
+A00LY	6A0Z	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	10757	705	3	1000	0.1	NAMD 2.13	CHARMM36m	Medium Difficulty	1.28	6A0Z_HL:A	non	False	None	122251584	3768118	871352
+A00LZ	6A77	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	7778	519	3	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.95	6A77_HL:A	non	False	None	88222456	2719581	630053
+A00M0	6AL0	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	9384	613	3	1000	0.1	NAMD 2.13	CHARMM36m	Medium Difficulty	1.89	6AL0_HL:A	non	False	None	106918224	3282480	760139
+A00M1	6BPC	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	11391	720	3	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.47	6BPC_EF:D	non	False	None	129695556	3979628	922706
+A00MB	6CWG	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	5974	390	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.76	6CWG_B:A	oui	False	None	68132904	2082194	483929
+A00MC	6DBG	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	6413	408	2	1000	0.1	NAMD 2.13	CHARMM36m	Rigid-body	0.46	6DBG_C:B	non	False	None	73030264	2242852	519488
+A00MD	6EY6	3	replica 1/3, 100 ns|replica 2/3, 100 ns|replica 3/3, 100 ns	8145	529	3	1000	0.1	NAMD 2.13	CHARMM36m	Medium Difficulty	1.9	6EY6_I:AB	non	False	None	92966224	2837824	659780

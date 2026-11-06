@@ -1,0 +1,67 @@
+{
+ "n_calibration": 2418,
+ "accord_de_signe": 0.9255583126550868,
+ "pearson": 0.9016009568685408,
+ "pente_moindres_carres": 0.6500850622424851,
+ "critere_ecrit_avant_accord_ge_0_90": true,
+ "par_jeu": {
+  "AlphaFlow": {
+   "n": 500,
+   "accord_de_signe": 0.95
+  },
+  "ESMFlow": {
+   "n": 100,
+   "accord_de_signe": 0.89
+  },
+  "AF-cluster": {
+   "n": 132,
+   "accord_de_signe": 0.9318181818181818
+  },
+  "ConforFold": {
+   "n": 600,
+   "accord_de_signe": 0.9766666666666667
+  },
+  "ConfRover": {
+   "n": 500,
+   "accord_de_signe": 0.932
+  },
+  "rMSA-AF2": {
+   "n": 80,
+   "accord_de_signe": 0.8625
+  },
+  "rMSA-AF2-recyc": {
+   "n": 285,
+   "accord_de_signe": 0.8596491228070176
+  },
+  "Exposed-closed": {
+   "n": 118,
+   "accord_de_signe": 0.940677966101695
+  },
+  "Buried-closed": {
+   "n": 103,
+   "accord_de_signe": 0.7184466019417476
+  }
+ },
+ "confusion_ring_vs_proxy": {
+  "ring_pos_proxy_pos": 949,
+  "ring_pos_proxy_neg": 110,
+  "ring_neg_proxy_pos": 70,
+  "ring_neg_proxy_neg": 1289
+ },
+ "bioemu_v1_proxy": {
+  "n": 499,
+  "n_cb_nan": 0,
+  "p_gt_0": 166,
+  "p_lt_0": 333,
+  "p_min_med_max": [
+   -0.6109593439846529,
+   -0.03855315113418365,
+   0.3943159171975793
+  ],
+  "d1_ferme": 0,
+  "exposed_open_pct": 33.26653306613226,
+  "buried_open_pct": 66.73346693386773
+ },
+ "rejets": [],
+ "n_rejets": 0
+}

@@ -1,0 +1,105 @@
+{
+ "n_refs": 221,
+ "etalon_autre_cluster_A_med_95_max": [
+  2.8,
+  11.62,
+  12.07
+ ],
+ "refs_vers_cristal_5LZM_A_min_med_max": [
+  5.96,
+  8.16,
+  13.72
+ ],
+ "unites": {
+  "eq162_n250": {
+   "n": 250,
+   "n_ferme_d1": 0,
+   "rmsd_min_aux_refs_fermees_A_quantiles_0_25_50_75_100_toutes": [
+    5.86,
+    6.04,
+    6.1,
+    6.16,
+    6.44
+   ],
+   "rmsd_au_cristal_A_mediane_toutes": 0.77,
+   "vrai_negatif_ouvertes_sous_etalon_95": 250,
+   "ouvertes_rmsd_min_aux_refs_A_min_med_max": [
+    5.86,
+    6.1,
+    6.44
+   ]
+  },
+  "eq164_n500": {
+   "n": 500,
+   "n_ferme_d1": 0,
+   "rmsd_min_aux_refs_fermees_A_quantiles_0_25_50_75_100_toutes": [
+    5.87,
+    6.05,
+    6.11,
+    6.16,
+    6.69
+   ],
+   "rmsd_au_cristal_A_mediane_toutes": 0.76,
+   "vrai_negatif_ouvertes_sous_etalon_95": 500,
+   "ouvertes_rmsd_min_aux_refs_A_min_med_max": [
+    5.87,
+    6.11,
+    6.69
+   ]
+  },
+  "prop162_lag0001": {
+   "n": 200,
+   "n_ferme_d1": 0,
+   "rmsd_min_aux_refs_fermees_A_quantiles_0_25_50_75_100_toutes": [
+    5.87,
+    6.01,
+    6.06,
+    6.12,
+    6.3
+   ],
+   "rmsd_au_cristal_A_mediane_toutes": 0.66,
+   "vrai_negatif_ouvertes_sous_etalon_95": 200,
+   "ouvertes_rmsd_min_aux_refs_A_min_med_max": [
+    5.87,
+    6.06,
+    6.3
+   ]
+  },
+  "prop162_lag0050": {
+   "n": 200,
+   "n_ferme_d1": 0,
+   "rmsd_min_aux_refs_fermees_A_quantiles_0_25_50_75_100_toutes": [
+    5.81,
+    6.06,
+    6.1,
+    6.15,
+    6.3
+   ],
+   "rmsd_au_cristal_A_mediane_toutes": 0.74,
+   "vrai_negatif_ouvertes_sous_etalon_95": 200,
+   "ouvertes_rmsd_min_aux_refs_A_min_med_max": [
+    5.81,
+    6.1,
+    6.3
+   ]
+  },
+  "prop162_lag1000": {
+   "n": 200,
+   "n_ferme_d1": 0,
+   "rmsd_min_aux_refs_fermees_A_quantiles_0_25_50_75_100_toutes": [
+    5.93,
+    6.05,
+    6.12,
+    6.19,
+    6.49
+   ],
+   "rmsd_au_cristal_A_mediane_toutes": 0.78,
+   "vrai_negatif_ouvertes_sous_etalon_95": 200,
+   "ouvertes_rmsd_min_aux_refs_A_min_med_max": [
+    5.93,
+    6.12,
+    6.49
+   ]
+  }
+ }
+}

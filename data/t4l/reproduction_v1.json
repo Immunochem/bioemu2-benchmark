@@ -1,0 +1,476 @@
+{
+ "rejets": [],
+ "n_rejets": 0,
+ "methodes": {
+  "AlphaFlow": {
+   "n_frames_xtc": 500,
+   "n_lignes_distances_npy": 500,
+   "n_atomes": 1308,
+   "resSeq_ordinaux": {
+    "4": 4,
+    "22": 22,
+    "44": 44,
+    "60": 60,
+    "67": 67,
+    "141": 141,
+    "150": 150
+   },
+   "cycle_phe4": [
+    "CD1",
+    "CD2",
+    "CE1",
+    "CE2",
+    "CG",
+    "CZ"
+   ],
+   "p_defini": true,
+   "diffs_sequence_vs_papier": [],
+   "ecart_max_d1_nm": 3.378178621282757e-07,
+   "ecart_max_d2_nm": 1.1181821779615575e-07,
+   "d1_min_med_max": [
+    3.4545530861374267,
+    3.5756630589331886,
+    3.7353418508028424
+   ],
+   "d1_ferme_lt_2_5": 0,
+   "locked_pkl_n": 500,
+   "ecart_max_p": 9.061030398216374e-08,
+   "p_a_lui": {
+    "min": -0.4135463535785675,
+    "med": 0.1882154643535614,
+    "max": 0.2708497941493988,
+    "p_gt_0": 494,
+    "p_lt_0": 6,
+    "p_eq_0": 0
+   },
+   "p_a_moi": {
+    "p_gt_0": 494,
+    "p_lt_0": 6,
+    "p_eq_0": 0
+   }
+  },
+  "ESMFlow": {
+   "n_frames_xtc": 100,
+   "n_lignes_distances_npy": 100,
+   "n_atomes": 1308,
+   "resSeq_ordinaux": {
+    "4": 4,
+    "22": 22,
+    "44": 44,
+    "60": 60,
+    "67": 67,
+    "141": 141,
+    "150": 150
+   },
+   "cycle_phe4": [
+    "CD1",
+    "CD2",
+    "CE1",
+    "CE2",
+    "CG",
+    "CZ"
+   ],
+   "p_defini": true,
+   "diffs_sequence_vs_papier": [],
+   "ecart_max_d1_nm": 2.482802279324403e-07,
+   "ecart_max_d2_nm": 1.328350753837526e-07,
+   "d1_min_med_max": [
+    3.5039334018239985,
+    3.5808887933804137,
+    3.728205807199708
+   ],
+   "d1_ferme_lt_2_5": 0,
+   "locked_pkl_n": 100,
+   "ecart_max_p": 8.482482399818636e-08,
+   "p_a_lui": {
+    "min": -0.4025663435459137,
+    "med": 0.16636565327644348,
+    "max": 0.29827240109443665,
+    "p_gt_0": 71,
+    "p_lt_0": 29,
+    "p_eq_0": 0
+   },
+   "p_a_moi": {
+    "p_gt_0": 71,
+    "p_lt_0": 29,
+    "p_eq_0": 0
+   }
+  },
+  "AF-cluster": {
+   "n_frames_xtc": 132,
+   "n_lignes_distances_npy": 132,
+   "n_atomes": 1308,
+   "resSeq_ordinaux": {
+    "4": 4,
+    "22": 22,
+    "44": 44,
+    "60": 60,
+    "67": 67,
+    "141": 141,
+    "150": 150
+   },
+   "cycle_phe4": [
+    "CD1",
+    "CD2",
+    "CE1",
+    "CE2",
+    "CG",
+    "CZ"
+   ],
+   "p_defini": true,
+   "diffs_sequence_vs_papier": [],
+   "ecart_max_d1_nm": 3.22509836170326e-07,
+   "ecart_max_d2_nm": 3.688637653098681e-07,
+   "d1_min_med_max": [
+    2.679052142098866,
+    3.648688731734545,
+    4.466673926658664
+   ],
+   "d1_ferme_lt_2_5": 0,
+   "locked_pkl_n": 132,
+   "ecart_max_p": 1.678841445862389e-07,
+   "p_a_lui": {
+    "min": -1.3772279024124146,
+    "med": -0.3238111734390259,
+    "max": 1.6864261627197266,
+    "p_gt_0": 41,
+    "p_lt_0": 91,
+    "p_eq_0": 0
+   },
+   "p_a_moi": {
+    "p_gt_0": 41,
+    "p_lt_0": 91,
+    "p_eq_0": 0
+   }
+  },
+  "ConforFold": {
+   "n_frames_xtc": 600,
+   "n_lignes_distances_npy": 600,
+   "n_atomes": 1308,
+   "resSeq_ordinaux": {
+    "4": 4,
+    "22": 22,
+    "44": 44,
+    "60": 60,
+    "67": 67,
+    "141": 141,
+    "150": 150
+   },
+   "cycle_phe4": [
+    "CD1",
+    "CD2",
+    "CE1",
+    "CE2",
+    "CG",
+    "CZ"
+   ],
+   "p_defini": true,
+   "diffs_sequence_vs_papier": [],
+   "ecart_max_d1_nm": 3.294729524760953e-07,
+   "ecart_max_d2_nm": 1.6395551449832624e-07,
+   "d1_min_med_max": [
+    3.008037718204307,
+    3.6402640555792356,
+    4.514046906296955
+   ],
+   "d1_ferme_lt_2_5": 0,
+   "locked_pkl_n": 600,
+   "ecart_max_p": 2.002701422476605e-07,
+   "p_a_lui": {
+    "min": -2.151621103286743,
+    "med": -0.3671540319919586,
+    "max": 0.41187745332717896,
+    "p_gt_0": 179,
+    "p_lt_0": 421,
+    "p_eq_0": 0
+   },
+   "p_a_moi": {
+    "p_gt_0": 179,
+    "p_lt_0": 421,
+    "p_eq_0": 0
+   }
+  },
+  "ConfRover": {
+   "n_frames_xtc": 500,
+   "n_lignes_distances_npy": 500,
+   "n_atomes": 1308,
+   "resSeq_ordinaux": {
+    "4": 4,
+    "22": 22,
+    "44": 44,
+    "60": 60,
+    "67": 67,
+    "141": 141,
+    "150": 150
+   },
+   "cycle_phe4": [
+    "CD1",
+    "CD2",
+    "CE1",
+    "CE2",
+    "CG",
+    "CZ"
+   ],
+   "p_defini": true,
+   "diffs_sequence_vs_papier": [],
+   "ecart_max_d1_nm": 4.959261259429582e-07,
+   "ecart_max_d2_nm": 3.049194021720325e-07,
+   "d1_min_med_max": [
+    3.216702823709134,
+    3.885645154377297,
+    4.421493156865881
+   ],
+   "d1_ferme_lt_2_5": 0,
+   "locked_pkl_n": 500,
+   "ecart_max_p": 1.497996484634001e-07,
+   "p_a_lui": {
+    "min": -0.8744367361068726,
+    "med": -0.3944242298603058,
+    "max": 0.19942355155944824,
+    "p_gt_0": 8,
+    "p_lt_0": 492,
+    "p_eq_0": 0
+   },
+   "p_a_moi": {
+    "p_gt_0": 8,
+    "p_lt_0": 492,
+    "p_eq_0": 0
+   }
+  },
+  "rMSA-AF2": {
+   "n_frames_xtc": 80,
+   "n_lignes_distances_npy": 80,
+   "n_atomes": 1308,
+   "resSeq_ordinaux": {
+    "4": 4,
+    "22": 22,
+    "44": 44,
+    "60": 60,
+    "67": 67,
+    "141": 141,
+    "150": 150
+   },
+   "cycle_phe4": [
+    "CD1",
+    "CD2",
+    "CE1",
+    "CE2",
+    "CG",
+    "CZ"
+   ],
+   "p_defini": true,
+   "diffs_sequence_vs_papier": [],
+   "ecart_max_d1_nm": 3.021212253706551e-07,
+   "ecart_max_d2_nm": 1.3479054516984945e-07,
+   "d1_min_med_max": [
+    3.096743383065619,
+    3.6594699420409746,
+    3.7292561579202017
+   ],
+   "d1_ferme_lt_2_5": 0,
+   "locked_pkl_n": 80,
+   "ecart_max_p": 1.313472706709895e-07,
+   "p_a_lui": {
+    "min": -0.39520540833473206,
+    "med": -0.3223345875740051,
+    "max": 0.21878603100776672,
+    "p_gt_0": 26,
+    "p_lt_0": 54,
+    "p_eq_0": 0
+   },
+   "p_a_moi": {
+    "p_gt_0": 26,
+    "p_lt_0": 54,
+    "p_eq_0": 0
+   }
+  },
+  "rMSA-AF2-recyc": {
+   "n_frames_xtc": 285,
+   "n_lignes_distances_npy": 285,
+   "n_atomes": 1308,
+   "resSeq_ordinaux": {
+    "4": 4,
+    "22": 22,
+    "44": 44,
+    "60": 60,
+    "67": 67,
+    "141": 141,
+    "150": 150
+   },
+   "cycle_phe4": [
+    "CD1",
+    "CD2",
+    "CE1",
+    "CE2",
+    "CG",
+    "CZ"
+   ],
+   "p_defini": true,
+   "diffs_sequence_vs_papier": [],
+   "ecart_max_d1_nm": 3.021212253706551e-07,
+   "ecart_max_d2_nm": 1.353479228693999e-07,
+   "d1_min_med_max": [
+    3.0746440766660097,
+    3.6544399279417057,
+    4.31556572763692
+   ],
+   "d1_ferme_lt_2_5": 0,
+   "locked_pkl_n": 285,
+   "ecart_max_p": 1.5400749833749394e-07,
+   "p_a_lui": {
+    "min": -0.427905797958374,
+    "med": -0.2696686387062073,
+    "max": 0.3575637936592102,
+    "p_gt_0": 122,
+    "p_lt_0": 163,
+    "p_eq_0": 0
+   },
+   "p_a_moi": {
+    "p_gt_0": 122,
+    "p_lt_0": 163,
+    "p_eq_0": 0
+   }
+  },
+  "BioEmu": {
+   "n_frames_xtc": 499,
+   "n_lignes_distances_npy": 499,
+   "n_atomes": 809,
+   "resSeq_ordinaux": {
+    "4": 3,
+    "22": 21,
+    "44": 43,
+    "60": 59,
+    "67": 66,
+    "141": 140,
+    "150": 149
+   },
+   "cycle_phe4": [],
+   "p_defini": false,
+   "diffs_sequence_vs_papier": [],
+   "ecart_max_d1_nm": 4.0525591327167376e-07,
+   "ecart_max_d2_nm": 1.8137359170111722e-07,
+   "d1_min_med_max": [
+    3.1671163712914114,
+    3.607818643842571,
+    4.408689602092113
+   ],
+   "d1_ferme_lt_2_5": 0,
+   "locked_pkl_n": null,
+   "p_a_moi": "NON DEFINI : cycle de Phe4 absent du topology (p = NaN pour les 499 images)",
+   "resume": {
+    "ouvert_d1_gt_2_5": 499,
+    "ferme_d1_lt_2_5": 0,
+    "p_defini": false,
+    "resSeq_ordinaux": {
+     "4": 3,
+     "22": 21,
+     "44": 43,
+     "60": 59,
+     "67": 66,
+     "141": 140,
+     "150": 149
+    }
+   }
+  }
+ },
+ "C3": {
+  "Exposed-closed": {
+   "n_fichiers": 118,
+   "n_rejets": 0,
+   "n_calcules": 118,
+   "d1_lt_2_5": 118,
+   "d1_min_med_max": [
+    1.98837876973101,
+    2.3483016860100845,
+    2.498265592417627
+   ],
+   "p_du_bon_signe": 118,
+   "p_min_med_max": [
+    0.0003362585337852868,
+    0.2781754296659711,
+    0.9461658034856328
+   ]
+  },
+  "Buried-closed": {
+   "n_fichiers": 103,
+   "n_rejets": 0,
+   "n_calcules": 103,
+   "d1_lt_2_5": 103,
+   "d1_min_med_max": [
+    1.9664961180596532,
+    2.392422589447162,
+    2.4987378685956827
+   ],
+   "p_du_bon_signe": 103,
+   "p_min_med_max": [
+    -2.043840720001938,
+    -0.5659112485142775,
+    -0.018500545317804172
+   ]
+  }
+ },
+ "C4": {
+  "a_sa_cellule_48_lock_egal_colonne_1": {
+   "n": 1832,
+   "comptes_[exp/closed, exp/open, bur/closed, bur/open]": [
+    0,
+    1832,
+    0,
+    0
+   ],
+   "colonne_1_min": 0.6363694071769714,
+   "colonne_1_est_toujours_positive": true
+  },
+  "b_vrai_p_les_cinq": {
+   "n": 1832,
+   "n_total": 1832,
+   "n_indefini": 0,
+   "comptes": {
+    "exposed/open": 793,
+    "exposed/closed": 0,
+    "buried/open": 1039,
+    "buried/closed": 0
+   },
+   "pourcent_sur_definis": {
+    "exposed/open": 43.286026200873366,
+    "exposed/closed": 0.0,
+    "buried/open": 56.713973799126634,
+    "buried/closed": 0.0
+   }
+  },
+  "b_vrai_p_sept_methodes": {
+   "n": 2197,
+   "n_total": 2197,
+   "n_indefini": 0,
+   "comptes": {
+    "exposed/open": 941,
+    "exposed/closed": 0,
+    "buried/open": 1256,
+    "buried/closed": 0
+   },
+   "pourcent_sur_definis": {
+    "exposed/open": 42.83113336367774,
+    "exposed/closed": 0.0,
+    "buried/open": 57.16886663632226,
+    "buried/closed": 0.0
+   }
+  },
+  "c_mon_p_sept_methodes": {
+   "n": 2197,
+   "n_total": 2197,
+   "n_indefini": 0,
+   "comptes": {
+    "exposed/open": 941,
+    "exposed/closed": 0,
+    "buried/open": 1256,
+    "buried/closed": 0
+   },
+   "pourcent_sur_definis": {
+    "exposed/open": 42.83113336367774,
+    "exposed/closed": 0.0,
+    "buried/open": 57.16886663632226,
+    "buried/closed": 0.0
+   }
+  }
+ }
+}

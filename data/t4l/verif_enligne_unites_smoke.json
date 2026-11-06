@@ -1,0 +1,58 @@
+{
+ "smoke_eq162_bs16": {
+  "n": 16,
+  "max_d1_nm": 0.0005048862342573734,
+  "max_d2_nm": 0.0011014189886725534,
+  "max_p": 0.0008514572813845822,
+  "etats_differents_en_ligne_hors_ligne": 0,
+  "ok_borne_2e-3_nm": true
+ },
+ "smoke_eq164_bs16": {
+  "n": 16,
+  "max_d1_nm": 0.000531708010724774,
+  "max_d2_nm": 0.0008685525559278817,
+  "max_p": 0.0005416052205963195,
+  "etats_differents_en_ligne_hors_ligne": 0,
+  "ok_borne_2e-3_nm": true
+ },
+ "smoke_eq164_bs48": {
+  "n": 48,
+  "max_d1_nm": 0.0008305114365034783,
+  "max_d2_nm": 0.001059696093577367,
+  "max_p": 0.0009752301270312957,
+  "etats_differents_en_ligne_hors_ligne": 0,
+  "ok_borne_2e-3_nm": true
+ },
+ "smoke_prop162_lag0050": {
+  "n": 8,
+  "max_d1_nm": 0.0008945339192480972,
+  "max_d2_nm": 0.0008861940739385288,
+  "max_p": 0.0008705363290046342,
+  "etats_differents_en_ligne_hors_ligne": 0,
+  "ok_borne_2e-3_nm": true
+ },
+ "smoke_prop162_lag1000": {
+  "n": 8,
+  "max_d1_nm": 0.000734379278631625,
+  "max_d2_nm": 0.0004841907270293211,
+  "max_p": 0.0008485534257263727,
+  "etats_differents_en_ligne_hors_ligne": 0,
+  "ok_borne_2e-3_nm": true
+ },
+ "smoke_steer164_f005_T22": {
+  "n": 8,
+  "max_d1_nm": 0.0007997227932747819,
+  "max_d2_nm": 0.0006714541791795758,
+  "max_p": 0.0006597981622346039,
+  "etats_differents_en_ligne_hors_ligne": 0,
+  "ok_borne_2e-3_nm": true
+ },
+ "smoke_steer164_f020_T22": {
+  "n": 8,
+  "max_d1_nm": 0.0012891717008183257,
+  "max_d2_nm": 0.0006674196063953808,
+  "max_p": 0.0011049835006637088,
+  "etats_differents_en_ligne_hors_ligne": 0,
+  "ok_borne_2e-3_nm": true
+ }
+}

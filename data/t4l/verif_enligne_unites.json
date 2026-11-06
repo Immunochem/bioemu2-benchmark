@@ -1,0 +1,42 @@
+{
+ "eq162_n250": {
+  "n": 250,
+  "max_d1_nm": 0.001109985798164459,
+  "max_d2_nm": 0.001220101044662636,
+  "max_p": 0.0013340229430995332,
+  "etats_differents_en_ligne_hors_ligne": 0,
+  "ok_borne_2e-3_nm": true
+ },
+ "eq164_n500": {
+  "n": 500,
+  "max_d1_nm": 0.0010759040160763789,
+  "max_d2_nm": 0.0011152284593856088,
+  "max_p": 0.0012426736625766321,
+  "etats_differents_en_ligne_hors_ligne": 0,
+  "ok_borne_2e-3_nm": true
+ },
+ "prop162_lag0001": {
+  "n": 200,
+  "max_d1_nm": 0.0010960869911675886,
+  "max_d2_nm": 0.0010105795349655278,
+  "max_p": 0.0012733379293961566,
+  "etats_differents_en_ligne_hors_ligne": 0,
+  "ok_borne_2e-3_nm": true
+ },
+ "prop162_lag0050": {
+  "n": 200,
+  "max_d1_nm": 0.0011147608879600313,
+  "max_d2_nm": 0.0011723296225891744,
+  "max_p": 0.001101162193388322,
+  "etats_differents_en_ligne_hors_ligne": 0,
+  "ok_borne_2e-3_nm": true
+ },
+ "prop162_lag1000": {
+  "n": 200,
+  "max_d1_nm": 0.0012323498136574962,
+  "max_d2_nm": 0.001210688862406717,
+  "max_p": 0.0011248032486114723,
+  "etats_differents_en_ligne_hors_ligne": 0,
+  "ok_borne_2e-3_nm": true
+ }
+}

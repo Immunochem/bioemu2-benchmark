@@ -1,0 +1,74 @@
+{
+ "n_refs": 221,
+ "etalon_autre_cluster_A_med_95_max": [
+  2.8,
+  11.62,
+  12.07
+ ],
+ "refs_vers_cristal_5LZM_A_min_med_max": [
+  5.96,
+  8.16,
+  13.72
+ ],
+ "unites": {
+  "smoke_steer164_f020_T22": {
+   "n": 8,
+   "n_ferme_d1": 8,
+   "rmsd_min_aux_refs_fermees_A_quantiles_0_25_50_75_100_toutes": [
+    5.97,
+    5.97,
+    6.06,
+    6.11,
+    6.14
+   ],
+   "rmsd_au_cristal_A_mediane_toutes": 1.1,
+   "fermees": {
+    "rmsd_min_aux_refs_A_min_med_max": [
+     5.97,
+     6.06,
+     6.14
+    ],
+    "n_reconnues_sous_etalon_95": 8,
+    "etalon_95_A": 11.62,
+    "p_median": 0.293,
+    "exposed_closed": 7,
+    "buried_closed": 1,
+    "physiques": 7
+   }
+  },
+  "smoke_steer164_f005_T22": {
+   "n": 8,
+   "n_ferme_d1": 0,
+   "rmsd_min_aux_refs_fermees_A_quantiles_0_25_50_75_100_toutes": [
+    5.91,
+    5.95,
+    6.05,
+    6.09,
+    6.24
+   ],
+   "rmsd_au_cristal_A_mediane_toutes": 0.82,
+   "ouvertes_rmsd_min_aux_refs_A_min_med_max": [
+    5.91,
+    6.05,
+    6.24
+   ]
+  },
+  "smoke_eq164_bs48": {
+   "n": 48,
+   "n_ferme_d1": 0,
+   "rmsd_min_aux_refs_fermees_A_quantiles_0_25_50_75_100_toutes": [
+    5.94,
+    6.05,
+    6.12,
+    6.16,
+    6.36
+   ],
+   "rmsd_au_cristal_A_mediane_toutes": 0.78,
+   "ouvertes_rmsd_min_aux_refs_A_min_med_max": [
+    5.94,
+    6.12,
+    6.36
+   ]
+  }
+ }
+}

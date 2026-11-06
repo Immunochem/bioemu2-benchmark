@@ -1,0 +1,154 @@
+{
+ "n_refs": 221,
+ "etalon_autre_cluster_A_med_95_max": [
+  2.8,
+  11.62,
+  12.07
+ ],
+ "refs_vers_cristal_5LZM_A_min_med_max": [
+  5.96,
+  8.16,
+  13.72
+ ],
+ "unites": {
+  "st_d1d2_f020": {
+   "n": 100,
+   "n_ferme_d1": 100,
+   "rmsd_min_aux_refs_fermees_A_quantiles_0_25_50_75_100_toutes": [
+    5.8,
+    5.94,
+    5.99,
+    6.06,
+    6.24
+   ],
+   "rmsd_au_cristal_A_mediane_toutes": 1.52,
+   "vrai_negatif_ouvertes_sous_etalon_95": null,
+   "fermees": {
+    "rmsd_min_aux_refs_A_min_med_max": [
+     5.8,
+     5.99,
+     6.24
+    ],
+    "n_sous_etalon_95_(NON DISCRIMINANT)": 100,
+    "etalon_95_A": 11.62,
+    "n_sous_etalon_mediane": 0,
+    "etalon_mediane_A": 2.8,
+    "rmsd_au_cristal_A_min_med_max": [
+     1.43,
+     1.52,
+     2.49
+    ],
+    "d2_nm_min_med_max": [
+     2.838,
+     2.845,
+     2.849
+    ],
+    "p_median": 0.235,
+    "exposed_closed": 95,
+    "buried_closed": 5,
+    "physiques": 0
+   }
+  },
+  "st_d1_f005": {
+   "n": 100,
+   "n_ferme_d1": 0,
+   "rmsd_min_aux_refs_fermees_A_quantiles_0_25_50_75_100_toutes": [
+    5.76,
+    5.97,
+    6.02,
+    6.1,
+    6.3
+   ],
+   "rmsd_au_cristal_A_mediane_toutes": 0.87,
+   "vrai_negatif_ouvertes_sous_etalon_95": 100,
+   "ouvertes_rmsd_min_aux_refs_A_min_med_max": [
+    5.76,
+    6.02,
+    6.3
+   ]
+  },
+  "st_d1_f020": {
+   "n": 100,
+   "n_ferme_d1": 100,
+   "rmsd_min_aux_refs_fermees_A_quantiles_0_25_50_75_100_toutes": [
+    5.72,
+    5.96,
+    6.01,
+    6.09,
+    6.4
+   ],
+   "rmsd_au_cristal_A_mediane_toutes": 1.02,
+   "vrai_negatif_ouvertes_sous_etalon_95": null,
+   "fermees": {
+    "rmsd_min_aux_refs_A_min_med_max": [
+     5.72,
+     6.01,
+     6.4
+    ],
+    "n_sous_etalon_95_(NON DISCRIMINANT)": 100,
+    "etalon_95_A": 11.62,
+    "n_sous_etalon_mediane": 0,
+    "etalon_mediane_A": 2.8,
+    "rmsd_au_cristal_A_min_med_max": [
+     0.88,
+     1.02,
+     1.97
+    ],
+    "d2_nm_min_med_max": [
+     0.633,
+     0.842,
+     1.354
+    ],
+    "p_median": 0.24,
+    "exposed_closed": 94,
+    "buried_closed": 6,
+    "physiques": 53
+   },
+   "fermees_ET_physiques": {
+    "n": 53,
+    "rmsd_min_aux_refs_A_min_med_max": [
+     5.72,
+     5.98,
+     6.4
+    ],
+    "n_sous_etalon_mediane": 0,
+    "rmsd_au_cristal_A_min_med_max": [
+     0.9,
+     1.06,
+     1.97
+    ],
+    "d1_nm_min_med_max": [
+     2.333,
+     2.357,
+     2.371
+    ],
+    "d2_nm_min_med_max": [
+     0.633,
+     0.831,
+     1.354
+    ],
+    "p_median": 0.245,
+    "exposed_closed": 48,
+    "buried_closed": 5
+   }
+  },
+  "st_f000_inerte": {
+   "n": 100,
+   "n_ferme_d1": 0,
+   "rmsd_min_aux_refs_fermees_A_quantiles_0_25_50_75_100_toutes": [
+    5.84,
+    6.03,
+    6.08,
+    6.16,
+    6.4
+   ],
+   "rmsd_au_cristal_A_mediane_toutes": 0.76,
+   "vrai_negatif_ouvertes_sous_etalon_95": 100,
+   "ouvertes_rmsd_min_aux_refs_A_min_med_max": [
+    5.84,
+    6.08,
+    6.4
+   ]
+  }
+ }
+}
