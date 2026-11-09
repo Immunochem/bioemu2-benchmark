@@ -59,6 +59,20 @@ and the arm/condition/stratum labels that say which test each row belongs to.
 | `*_steer.json`, `*_smoke.json` | the steered variant and the smoke run, kept for the audit trail |
 | `tables_rapport.md` | the tables as the internal report printed them |
 
+## `t4l/cv_d1_p_ep1.json` - d1 against p, the plot behind episode 1
+
+d1 and the locking coordinate p for the **seven published methods that carry the Phe4 ring** (2,197 structures,
+read from the author's own `distances.npy` and `locked.pkl`; none recomputed here) and for BioEmu2
+(`eq164_n500`, 500 structures, from our `cv.npz`). 0 rejects; nothing falls below d1 = 2.5 nm (the closest is
+2.68 nm). `scripts/t4l/dump_cv_ep1.py` exports it, `scripts/t4l/build_ep1_figure.py` draws
+`docs/figs/d1_p_bhakat_bioemu2.svg` from it, byte for byte.
+
+**A correction, in the author's words.** Cell 48 of the paper's notebook reads the locking coordinate from
+column 1 of `distances.npy`, which is d2, not p. S. Bhakat confirmed it and re-plotted the figure (2026-11-06
+and 2026-11-09, author communication; an amendment is to be raised with the journal). Along the corrected p
+both states are populated. What does not change, in his words: *"the overall conclusion remains unchanged: the
+GenAI ensemble alone does not capture the closed state."*
+
 ## `comparaison/` - BioEmu2 against the simulation, per complex
 
 `u2_vs_u3.json`: `par_systeme` holds each complex judged against the spread of its own three
