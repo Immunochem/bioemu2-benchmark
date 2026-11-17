@@ -653,8 +653,8 @@ footer .brand img { width: 44px; }
     <p>Each control was itself tested against a case that should make it fire.</p>
     <dl class="compact">
       <div><dt>Chance floor</dt><dd>42,000 random placements, 0 usable poses, best fnat 0.094. That is what makes a score of 0.3 mean something.</dd></div>
-      <div><dt>The model&rsquo;s own floor</dt><dd>Output with no starting pose: fnat 0.15, interface RMSD 9.96&nbsp;&Aring;. The same 0.15 is enormous against chance and worthless against this.</dd></div>
-      <div><dt>Negative control</dt><dd>15 pairs of unrelated proteins, run identically to the real ones.</dd></div>
+      <div><dt>The model&rsquo;s own floor</dt><dd>Output with no starting pose: fnat 0.15, interface RMSD 9.96&nbsp;&Aring;. The same 0.15 is enormous against chance and worthless against this. Two of our own results sit on it: releasing a complex held 20&nbsp;&Aring; apart returns fnat 0.15 (interface RMSD 7.7&nbsp;&Aring;), and the equilibrium mode on the same system returns 0.15 (10.50&nbsp;&Aring;).</dd></div>
+      <div><dt>Negative control</dt><dd>30 pairs of unrelated proteins (two independent sets of 15), run identically to the real ones.</dd></div>
       <div><dt>Held-out group with a matching control</dt><dd>Comparable when the answer is handed over (69/72 against 96/96), apart when it is not. Without that control the gap could just mean the newer complexes are harder.</dd></div>
       <div><dt>Same-age, no-treatment control</dt><dd>The pipeline without the pulling keeps fnat 0.77, so the hysteresis is our protocol&rsquo;s and not the tool&rsquo;s.</dd></div>
       <div><dt>Calibration against the published benchmark</dt><dd>We rebuilt Bhakat&rsquo;s two coordinates from scratch: they match his published arrays to <strong>5&times;10<sup>&minus;7</sup>&nbsp;nm</strong> over 8 datasets, and all <strong>221</strong> of his closed references are classified correctly. That is what puts BioEmu2 on his scoreboard rather than ours.</dd></div>
